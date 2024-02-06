@@ -4,7 +4,7 @@
 
 body {
     font-family: Verdana;
-    font-size:16px; 
+    font-size:20px; 
     letter-spacing:1px; 
     background-image: linear-gradient(rgb(0,51,102), LightBlue);
     color: black;
@@ -15,11 +15,9 @@ body {
 .neonText {
   color: #fff;
   text-shadow:
-    /* White glow */
     0 0 7px #fff,
     0 0 10px #fff,
     0 0 21px #fff,
-    /* Green glow */
     0 0 42px #add8e6,
     0 0 82px #add8e6,
     0 0 92px #add8e6,
@@ -36,6 +34,6 @@ button {
   cursor: pointer;
 
   font-family: Verdana;
-  font-size:16px; 
+  font-size:20px; 
   letter-spacing:1px; 
 }
